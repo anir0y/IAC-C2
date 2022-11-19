@@ -21,3 +21,14 @@ Create a terraform.tfvars file with the following variables:
 * cloudflare_token= "" - cloudflare global api token
 * cloudflare_email= "" - your cloudflare email id
 * do_token = "" - DO token
+
+
+---
+
+## Contribute
+
+you can cotribute on porting the code from `Digital Ocean` to `AWS`, `Azure` and `GCP`. to support all major Cloud platforms. 
+
+## Bug report 
+
+send your bug report to [@anir0y](https://twitter.com/anir0y) [@Vatsal](https://twitter.com/vatsal_mob)
