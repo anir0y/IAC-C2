@@ -1,4 +1,12 @@
-# covenant-c2
+
+# Automating your C2 infra 
+
+---
+
+![iac-c2](https://i.imgur.com/OSRNZ8f.png)
+
+---
+
 
 ## Pre-req
 
